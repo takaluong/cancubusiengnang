@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 # cancubusiengnang 
 con chó Đạt
@@ -9,3 +10,8 @@ TODO Diep Quoc Dat
 TODO http://github.com/explore
 >>>>>>> Stashed changes
 sss
+=======
+# cancubusiengnang 
+con chó Đạt
+con chó Phương
+>>>>>>> master
